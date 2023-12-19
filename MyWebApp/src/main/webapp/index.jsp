@@ -6,7 +6,7 @@
     </head>
 <body>
 <h2> 
-	<h2> Welcome to SNIT for AWS  Devops and Azur devops Training  Training Dilsukhnagar</h2>
+	<h2> Welcome to SNIT for AWS  Devops and Azur devops Training  Training Dilsukhnagar hyderabad</h2>
   
 </body>
 </html>
